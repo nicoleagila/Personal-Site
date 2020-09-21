@@ -1,2 +1,2 @@
 # Personal-Site
-My personal site CSS
+My personal site using HTML and CSS
